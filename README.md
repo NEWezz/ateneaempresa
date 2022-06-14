@@ -1,2 +1,2 @@
-Atenea empresa simcompanies 
-usted puede hacerme sufgerencias de estilos para esta web 
+#Atenea empresa simcompanies 
+usted puede hacerme sugerencias de estilos para esta web 
