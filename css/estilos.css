@@ -17,7 +17,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  background-color: tan;
+  background-color: var(--bg-body);
 }
 img {
   width: 100%;
